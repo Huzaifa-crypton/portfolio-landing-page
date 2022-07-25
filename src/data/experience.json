@@ -2,32 +2,33 @@
   "experience": [
     {
       "id": 0,
-      "link": "https://www.8secondz.com/",
-      "company": "8secondz",
-      "title": "Creative Lead - Web & App Teams",
-      "dateFrom": "June 2020",
-      "dateTo": "July 2021",
+      "link": "https://netflix-clone-d4680.web.app/",
+      "company": "Netflix-Clone",
+      "title": "Frontend Development",
+      "dateFrom": "June 2022",
+      "dateTo": "June 2022",
       "info": [
-        "Responsible for web team front-end development and design",
-        "Led in app UI/UX & company wide creative media content"
+        "A clone that displays Netflix movies",
+        "Movie trailers fetched from YouTube"
       ],
-      "stack": ["Vue.js", "Nuxt.js", "Node.js", "AWS"],
-      "logoheight": 80,
+      "stack": ["React.js", "HTML", "Node.js", "CSS" , "JavaScript" , "API", "Firebase"],
+      "logoheight": 60,
       "colourPrimary": "linear-gradient(to bottom, #f4592b, #f28d25)",
       "colourSecondary": "linear-gradient(to bottom, #f4592b, #f28d25)"
     },
     {
       "id": 1,
       "link": "https://www.psykinetic.com",
-      "company": "Psykinetic",
-      "title": "Immersive Tech & Web Developer",
-      "dateFrom": "August 2020",
-      "dateTo": "Current",
+      "company": "HTL Management System",
+      "title": "Full Stack Development",
+      "dateFrom": "March 2022",
+      "dateTo": "April 2022",
       "info": [
-        "Developing VR application with UE4 and C++ for Oculus Quest",
-        "Web design & development of web platform using wix"
+        "Design and implementation of Database.",
+        "UI, Database Queries, Multiple Users"
+        
       ],
-      "stack": ["C++", "UE4", "VR", "Web Design"],
+      "stack": ["SQL", "Desktop Application", ".NET", "Guna" , "Bunifu"],
       "logowidth": 80,
       "colourPrimary": "linear-gradient(to bottom, #465a90, #1e3470)",
       "colourSecondary": "linear-gradient(to bottom, #465a90, #1e3470)"
@@ -35,16 +36,16 @@
     {
       "id": 2,
       "link": "https://www.cactuscan.com",
-      "company": "CactusCan",
-      "title": "Creative Lead",
-      "dateFrom": "2016",
-      "dateTo": "Current",
+      "company": "Point of Sale Application",
+      "title": "Full Stack Development",
+      "dateFrom": "February 2021",
+      "dateTo": "March 2021",
       "info": [
-        "Co-founding CactusCan in 2015 has led to many exciting projects with incredible customers.",
-        "Web design, marketing, media and customer engagement."
+        "Creating a POS App using OOP concepts",
+        "UI Design and integration of functionalities"
       ],
-      "stack": ["React", "Marketing", "Design", "UI/UX"],
-      "logowidth": 80,
+      "stack": ["OOP" , "Desktop Application" , "Database(.txt)" , ".NET"],
+      "logowidth": 70,
       "colourPrimary": "linear-gradient(to bottom, #39b175, #0be779)",
       "colourSecondary": "linear-gradient(to bottom, #39b175, #0be779)"
     }

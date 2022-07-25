@@ -7,7 +7,7 @@ import experienceData from '../../data/experience.json'
 
 const Experience = () => {
   return (
-    <Section title="Experience">
+    <Section title="Projects">
       <div className="experience-content">
         <ul className="experience-list">
           {experienceData.experience.reverse().map((exp) => (
@@ -26,9 +26,9 @@ const Experience = () => {
             }}
           >
             <p style={{ textAlign: 'center' }}>
-              Further in-depth experience pre 2020 can be found on my{' '}
+              Further projects can be found on my{' '}
               <a
-                href="https://www.linkedin.com/in/mjigalin/"
+                href="https://github.com/Huzaifa-crypton/"
                 target="_blank"
                 rel="noopener noreferrer"
                 style={{
@@ -37,7 +37,7 @@ const Experience = () => {
                   cursor: 'pointer',
                 }}
               >
-                LinkedIn
+                Github
               </a>
               .
             </p>

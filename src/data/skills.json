@@ -1,37 +1,71 @@
 {
   "skills": [
     {
-      "id": 0,
-      "skillName": "Design",
-      "amount": "95"
-    },
+      "id": 9,
+      "skillName": "Desktop App",
+      "amount": "90"
+    },{ "id": 6, "skillName": "HTML+CSS", "amount": "80" },
+    
     {
       "id": 1,
       "skillName": "React.js",
-      "amount": "90"
-    },
-    {
-      "id": 2,
-      "skillName": "Photoshop",
-      "amount": "90"
-    },
-    { "id": 3, "skillName": "Javascript", "amount": "85" },
-    {
-      "id": 4,
-      "skillName": "Node.js",
       "amount": "80"
-    },
-    {
-      "id": 5,
-      "skillName": "REST",
+    },      {
+      "id": 0,
+      "skillName": "JavaScript",
       "amount": "75"
     },
-    { "id": 6, "skillName": "Apollo", "amount": "70" },
-    { "id": 7, "skillName": "Gatsby", "amount": "70" },
+    {
+      "id": 10,
+      "skillName": ".NET",
+      "amount": "70"
+    },
+    
     {
       "id": 8,
       "skillName": "Backend",
       "amount": "60"
     }
+,
+    {
+      "id": 4,
+      "skillName": "Node.js",
+      "amount": "60"
+    },
+
+    {
+      "id": 5,
+      "skillName": "REST",
+      "amount": "55"
+    }
+    ,
+    {
+      "id": 2,
+      "skillName": "MongoDB",
+      "amount": "40"
+    },
+    {
+      "id": 2,
+      "skillName": "C++",
+      "amount": "40"
+    }
+    ,    {
+      "id": 2,
+      "skillName": "C#",
+      "amount": "40"
+    },    {
+      "id": 2,
+      "skillName": "Python",
+      "amount": "40"
+    },    {
+      "id": 2,
+      "skillName": "SQL",
+      "amount": "40"
+    }   , {
+      "id": 2,
+      "skillName": "Database Design",
+      "amount": "40"
+    }
+
   ]
 }
